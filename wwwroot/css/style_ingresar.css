@@ -1,0 +1,88 @@
+﻿
+#main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.box {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
+    padding: 20px;
+    margin: 20px;
+    width: 300px;
+    text-align: center;
+}
+
+    .box h2 {
+        color: #4a4a4a;
+        font-size: 24px;
+        margin: 0 0 10px;
+    }
+
+    .box p {
+        color: #777;
+        font-size: 16px;
+        margin: 0 0 20px;
+    }
+
+    .box a {
+        background-color: #007bff;
+        color: #fff;
+        display: block;
+        font-size: 18px;
+        padding: 10px 0;
+        text-decoration: none;
+        border-radius: 5px;
+        transition: background-color 0.2s ease-in-out;
+    }
+
+        .box a:hover {
+            background-color: #0069d9;
+        }
+
+div a {
+    color: #007bff;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+    div a:hover {
+        text-decoration: none;
+    }
+
+.volverIndex {
+    display: block;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 16px;
+    color: #444;
+    text-decoration: none;
+    border: 2px solid #444;
+    border-radius: 4px;
+    padding: 10px;
+    width: 200px;
+    transition: all 0.2s ease-in-out;
+    text-decoration:none;
+}
+
+    a:hover {
+        background-color: #444;
+        color: #fff;
+        text-decoration: none;
+    }
+
+.box_imagenes {
+    background-image: url('');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center top;
+    width: 100px;
+    height: 100px;
+}

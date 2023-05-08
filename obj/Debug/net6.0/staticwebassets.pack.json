@@ -1,0 +1,373 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BookDook.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BookDook.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\Althusser, Louis - Psychoanalysis and the Human Sciences-Columbia University Press (2016).epub",
+      "PackagePath": "staticwebassets\\Althusser, Louis - Psychoanalysis and the Human Sciences-Columbia University Press (2016).epub"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\Decker, Kevin - Star Wars and Philosophy. More powerful than you can possibly imagine (Complete)-Chicago and La Salle (2005).pdf",
+      "PackagePath": "staticwebassets\\Decker, Kevin - Star Wars and Philosophy. More powerful than you can possibly imagine (Complete)-Chicago and La Salle (2005).pdf"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\[Star Wars] Mike Chen - Star Wars_ Brotherhood (2022, Random House Publishing Group).epub",
+      "PackagePath": "staticwebassets\\[Star Wars] Mike Chen - Star Wars_ Brotherhood (2022, Random House Publishing Group).epub"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\administrador - Copia.png",
+      "PackagePath": "staticwebassets\\administrador - Copia.png"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\administrador.png",
+      "PackagePath": "staticwebassets\\administrador.png"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\book_free - Copia.jpg",
+      "PackagePath": "staticwebassets\\book_free - Copia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\book_free.jpg",
+      "PackagePath": "staticwebassets\\book_free.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\css\\StyleMisLibros.css",
+      "PackagePath": "staticwebassets\\css\\StyleMisLibros.css"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\css\\filtro.css",
+      "PackagePath": "staticwebassets\\css\\filtro.css"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\css\\registraseAdmin.css",
+      "PackagePath": "staticwebassets\\css\\registraseAdmin.css"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\css\\registraseUser.css",
+      "PackagePath": "staticwebassets\\css\\registraseUser.css"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\css\\style_admi.css",
+      "PackagePath": "staticwebassets\\css\\style_admi.css"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\css\\style_ingresar.css",
+      "PackagePath": "staticwebassets\\css\\style_ingresar.css"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\favicon - Copia.ico",
+      "PackagePath": "staticwebassets\\favicon - Copia.ico"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\logo - Copia.jpg",
+      "PackagePath": "staticwebassets\\logo - Copia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\logo.jpg",
+      "PackagePath": "staticwebassets\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\portada1 - Copia.jpg",
+      "PackagePath": "staticwebassets\\portada1 - Copia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\portada1.jpg",
+      "PackagePath": "staticwebassets\\portada1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\portada2.jpg",
+      "PackagePath": "staticwebassets\\portada2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\portada3.jpg",
+      "PackagePath": "staticwebassets\\portada3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\portada4.jpg",
+      "PackagePath": "staticwebassets\\portada4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\portada5.jpg",
+      "PackagePath": "staticwebassets\\portada5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\portada6.jpg",
+      "PackagePath": "staticwebassets\\portada6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\portada7.jpg",
+      "PackagePath": "staticwebassets\\portada7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\portada8.jpg",
+      "PackagePath": "staticwebassets\\portada8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Eduardo\\Desktop\\New folder\\BookDook\\wwwroot\\usuario.png",
+      "PackagePath": "staticwebassets\\usuario.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BookDook.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BookDook.props",
+      "PackagePath": "build\\BookDook.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BookDook.props",
+      "PackagePath": "buildMultiTargeting\\BookDook.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BookDook.props",
+      "PackagePath": "buildTransitive\\BookDook.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

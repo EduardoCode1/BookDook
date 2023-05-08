@@ -1,0 +1,63 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Visualización de PDF</title>
+    <link rel="stylesheet" href="~/css/StyleMisLibros.css" />
+    <style>
+        .course {
+            width: 300px;
+            margin: 0 auto;
+            background-color: #f4f4f4;
+            border: 1px solid #ddd;
+            padding: 10px;
+            border-radius: 5px;
+            text-align: center;
+        }
+
+        .portadas_fondo {
+            display: block;
+            text-decoration: none;
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+            .portadas_fondo:hover {
+                color: #000;
+            }
+
+        .course img {
+            width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1 class="dark_titulos_cursos">Lo que más has leído</h1>
+    <section class="courses">
+        <div class="course">
+            <a class="portadas_fondo" href="./Althusser, Louis - Psychoanalysis and the Human Sciences-Columbia University Press (2016).epub" target="_blank">
+                <img src="https://th.bing.com/th/id/R.d993aedafcc0c6d5472d1438461f3e2d?rik=XYlk7EmA3zQesQ&pid=ImgRaw&r=0" />
+            </a>
+            <h3>Star Wars: Brotherhood</h3>
+            <p>by John H. Saxon</p>
+            <span class="rating">4.7</span>
+        </div>
+    </section>
+
+    <section class="courses">
+        <div class="course">
+            <a class="portadas_fondo" href="./Decker, Kevin - Star Wars and Philosophy. More powerful than you can possibly imagine (Complete)-Chicago and La Salle (2005).pdf" target="_blank">
+                <img src="https://pictures.abebooks.com/isbn/9788408112006-es.jpg" />
+            </a>
+            <h3>BIOKO</h3>
+            <p>by William H. Stanly</p>
+            <span class="rating">4.7</span>
+        </div>
+    </section>
+</body>
+</html>
